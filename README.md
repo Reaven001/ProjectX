@@ -11,7 +11,7 @@ Developed with Unreal Engine 4 for the CCB training program.
 ## Resources
 
 ### Character
-[Character](https://oscarnovas.com](https://devenabled.itch.io/devvy-channel-mascot-project)https://devenabled.itch.io/devvy-channel-mascot-project)
+[Devvy - Dev Enabled](https://oscarnovas.com](https://devenabled.itch.io/devvy-channel-mascot-project)https://devenabled.itch.io/devvy-channel-mascot-project)
 
 ### Assets
 * Lowpoly Style Asia Environment
