@@ -1,4 +1,4 @@
-# ProjectX
+# ShaolinUp
 
 Developed with Unreal Engine 4 for the CCB training program.
 
